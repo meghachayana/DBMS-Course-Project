@@ -8,6 +8,7 @@ Student Details
 Project Description
 A database management system designed to manage employee information, departments, designations, attendance, salary components, salaries, statutory deductions, payroll records, and employee payments in an organization.
 The system maintains relationships between employees and their departments, designations, attendance, salary details, deductions, payroll, and payment records using a relational database.
+
 Technologies Used
 - Python
 - Flask
